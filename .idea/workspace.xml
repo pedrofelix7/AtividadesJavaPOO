@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ab8fefa-0d06-4a00-9f55-87271734e5e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TaskThree/POO/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTwo/POO/String/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTwo/POO/String/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Calculadora.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskThree/POO/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -54,6 +54,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Objeto.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskThree.POO.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.TaskTwo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Temperatura.executor&quot;: &quot;Run&quot;,
     &quot;Application.XeY.executor&quot;: &quot;Run&quot;,
@@ -134,7 +135,9 @@
       <workItem from="1725157833744" duration="1485000" />
       <workItem from="1725216198342" duration="1954000" />
       <workItem from="1725229681749" duration="1861000" />
-      <workItem from="1725295815265" duration="6146000" />
+      <workItem from="1725295815265" duration="6353000" />
+      <workItem from="1725557456955" duration="3684000" />
+      <workItem from="1725563546628" duration="5186000" />
     </task>
     <servers />
   </component>
